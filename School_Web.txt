@@ -1,5 +1,5 @@
 Site showing completed projects here:
 
-https://katelizabeth.github.io/School_Web_Projects_Final/
+https://www.katelizabeth.ninja
 
 Actual code repository is set to private. Code files for specific projects available on request.
